@@ -1,7 +1,9 @@
 # dgdat to xlsx конвертер
 
 Конвертирует базы ДубльГис [https://2gis.ru/](https://2gis.ru/) в файлы формата Microsoft Excel.  
-Все данные берутся только из файлов формата dgdat, обращение к интернету не требуется.  
+Все данные берутся только из файлов формата dgdat, обращение к интернету не требуется. 
+
+![Alt text](https://github.com/nop-74/gdat_parser/blob/master/parser.png)
 
 ## Установка
 
