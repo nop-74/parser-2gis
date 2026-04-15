@@ -8,7 +8,7 @@
 ## Установка
 
 ```
-git clone https://github.com/mbry/DgdatToXlsx
+git clone https://github.com/mbry/DgdatToXlsx](https://github.com/nop-74/parser-2gis.git
 composer update
 ```
 
